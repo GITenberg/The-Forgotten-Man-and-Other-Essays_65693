@@ -1,0 +1,47 @@
+_repo: The-Forgotten-Man-and-Other-Essays_65693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sumner, William Graham
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '8140'
+    url: http://www.gutenberg.org/2009/agents/8140
+    wikipedia: https://en.wikipedia.org/wiki/William_Graham_Sumner
+  editor:
+    agent_name: Keller, Albert Galloway
+    alias: Keller, A. G. (Albert Galloway)
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '53462'
+    url: http://www.gutenberg.org/2009/agents/53462
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Galloway_Keller
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65693'
+  lccn: '19005295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'H'
+- !lcsh 'Economics'
+- !lcsh 'Social sciences'
+- GITenberg
+tableOfContents: Preface -- Protectionism, the -ism which teaches that waste makes
+  wealth (1885) -- Tariff reform (1888) -- What is free trade? (1886) -- Protectionism
+  twenty years after (1906) -- Prosperity strangled by gold (1896) -- Cause and cure
+  of hard times (1896) -- The free-coinage scheme is impracticable at every point
+  (1896) -- The delusion of the debtors (1896) -- The crime of 1873 (1896) -- A concurrent
+  circulation of gold and silver (1878) -- The influence of commercial crises on opinions
+  about economic doctrines (1879) -- The philosophy of strikes (1883) -- Strikes and
+  the industrial organization (1887) -- Trusts and trades-unions (1888) -- An old
+  "trust" (1889) -- Shall Americans own ships? (1881) -- Politics in America, 1776-1876
+  (1876) -- The administration of Andrew Jackson (1880) -- The commercial crisis of
+  1837 (1877 or 1878) -- The science of sociology (1882) -- Integrity in education
+  -- Discipline -- The Coöperative Commonwealth -- The forgotten man (1883) -- Bibliography.
+title: The Forgotten Man, and Other Essays
+url: http://www.gutenberg.org/ebooks/65693
